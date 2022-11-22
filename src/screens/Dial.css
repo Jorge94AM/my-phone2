@@ -1,0 +1,14 @@
+.main{
+   padding: 25px;
+   border: 1px solid black;  
+   align-items: center;
+   text-align: center;
+   width: 150px;
+   margin: auto;
+   border-radius: 15px;
+   background-color: rgb(180, 226, 244);  
+   
+}
+.display{
+  text-align: end;
+}
