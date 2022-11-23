@@ -1,7 +1,6 @@
 import { Button, Dialog, DialogContent, DialogTitle, Fab, TextField, DialogActions } from "@mui/material";
 import React from "react";
-import AddIcon from '@material-ui/icons/Add';
-
+import AddIcon from '@mui/icons-material/Add';
 
 
 export default function AddContact() {
